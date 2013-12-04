@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HorizontalVerticalScrolling</string>
+    <string name="action_settings">Settings</string>
+    <string name="tableRow_1">Row 1</string>
+    <string name="tableRow_2">Row 2</string>
+    <string name="tableRow_3">Row 3</string>
+    <string name="tableRow_4">Row 4</string>
+    <string name="tableRow_5">Row 5</string>
+    <string name="tableRow_6">Row 6</string>
+    <string name="tableRow_7">Row 7</string>
+    <string name="tableRow_8">Row 8</string>
+    <string name="tableRow_9">Row 9</string>
+    <string name="tableRow_10">Row 10</string>
+    <string name="tableRow_11">Row 11</string>
+    <string name="tableRow_12">Row 12</string>
+    <string name="tableRow_13">Row 13</string>
+    <string name="tableRow_14">Row 14</string>
+    <string name="tableRow_15">Row 15</string>
+    <string name="tableRow_16">Row 16</string>
+    <string name="tableRow_17">Row 17</string>
+    <string name="tableRow_18">Row 18</string>
+    <string name="tableRow_19">Row 19</string>
+    <string name="tableRow_20">Row 20</string>
+    <string name="tableRow_21">Row 21</string>   
+    <string name="hello_world_1"> column 1</string>
+    <string name="hello_world_2"> column 2</string>
+    <string name="hello_world_3"> column 3</string>
+    <string name="hello_world_4"> column 4</string>
+    <string name="hello_world_5"> column 5</string>
+    <string name="hello_world_6"> column 6</string>
+    <string name="hello_world_7"> column 7</string>
+    <string name="hello_world_8"> column 8</string>
+    <string name="hello_world_9"> column 9</string>
+
+</resources>
